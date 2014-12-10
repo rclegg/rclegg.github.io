@@ -1,4 +1,4 @@
-spwp
+Personal Website in Progress
 ====
 
-Single Page Web Presence Project for COM530
+All of my current work on developing my personal web presence.
