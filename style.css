@@ -9,9 +9,6 @@ body{
 li{
 	list-style-type:none;
 }
-li.tposts{
-	list-style-type:none;
-}
 .navigation,.eml,.lkd{
 	background-color: #2D6580;
 	color: white;
