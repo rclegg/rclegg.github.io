@@ -65,6 +65,7 @@ aside{
 article{
   width: 33%;
   background-color: #807E2D;
+  float: left;
 }
 h1.tumblr{
   color:white;
