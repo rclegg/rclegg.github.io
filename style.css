@@ -1,7 +1,8 @@
-body{
+html {
 	background-color: #7F462C;
+}
+body{
 	font-family: sans-serif;
-	height: 400px;
 	text-align: center;
 	padding: 2px 0 1px 0;
 }
@@ -53,23 +54,16 @@ aside{
 	text-align: left;
 	font-size: 0.7585em; /* 15px golden*/
 	line-height: 1.517em;
-	text-indent: 1.5em;
+	padding-left: 1.5em; 
 }
 #resume li{
-	text-indent: 3em;
+  padding-left: 2em;
+  text-indent: -2em; 
 }
 #resume h2{
-	text-indent: 1em;
 }
 @media (min-width: 50em){
-body{
-	font-family: sans-serif;
-}
-nav{
-	width:33%;
-	float: left;
-	padding: 0em 50em 0em 0em;
-	}
+
 #profilepic{
 	float:left;
 	width:60%;
