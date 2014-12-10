@@ -62,6 +62,10 @@ aside{
 }
 #resume h2{
 }
+article{
+  width: 33%;
+}
+
 @media (min-width: 50em){
 
 #profilepic{
